@@ -1,0 +1,2 @@
+# Proyecto-Cliente-Servidor-en-Python-
+Realizado 100% en Python y ejecutado con el cmd, pude realizar un modelo de base de datos enfocado en ventas. El usuario puede crear una lista de proveedores y clientes, quitando y agregando personas, y modificando sus datos dentro de la base de datos creada (Nombre, empresa, cargo que ocupa, email, etc). El proyecto fue realizado en base al curso de Python en Platzi, una escuela de programación.
